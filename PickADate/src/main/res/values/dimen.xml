@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_margin">15dp</dimen>
+    <dimen name="calendar_title_height">80dp</dimen>
+
+    <dimen name="week_grid_height">75dp</dimen>
+    <dimen name="box_length">50dp</dimen>
+    <dimen name="default_margin_double">32dp</dimen>
+</resources>
